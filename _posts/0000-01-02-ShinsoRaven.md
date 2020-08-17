@@ -2,4 +2,4 @@ layaout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to go back
+arabasu kisetsu no otome domo yo
